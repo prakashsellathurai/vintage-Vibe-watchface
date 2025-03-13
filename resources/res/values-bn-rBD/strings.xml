@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">ও</string>
+    <string name="background">ব্যাকগ্রাউন্ড</string>
+    <string name="background_color">ব্যাকগ্রাউন্ডের রং</string>
+    <string name="button">ঠিক আছে</string>
+    <string name="character">অক্ষর</string>
+    <string name="clock_type">ঘড়ির ধরন</string>
+    <string name="color">রং</string>
+    <string name="complication">জটিলতা</string>
+    <string name="complication_color">অংশের রং</string>
+    <string name="dial">ডায়াল করুন</string>
+    <string name="duo_color">বৃত্তের রং</string>
+    <string name="font_color">ফন্টের রং</string>
+    <string name="hands">কাঁটা</string>
+    <string name="index">সূচক</string>
+    <string name="second_hand_color">সেকেন্ডের কাঁটার রং</string>
+    <string name="tutorial_swipe_bezel_clockwise">বিভিন্ন স্টাইল, রং, বা অংশ দেখতে ফ্রেমটি ঘড়ির কাঁটার দিকে সোয়াইপ করুন৷</string>
+    <string name="tutorial_swipe_right_left">স্টাইল, রং, বা অংশ স্বকীয় করতে বামে বা ডানে সোয়াইপ করুন৷</string>
+    <string name="tutorial_swipe_up_down">বিভিন্ন স্টাইল, রং, বা অংশ দেখতে উপরের বা নিচের দিকে সোয়াইপ করুন৷</string>
+</resources>

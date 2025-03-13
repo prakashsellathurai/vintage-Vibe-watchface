@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_shortcut_screen_reader_name">App shortcut</string>
+    <string name="change_media_screen_reader_name">Change media</string>
+    <string name="color_selector_display_name">Colour</string>
+    <string name="color_selector_screen_reader_name">Colour selector</string>
+    <string name="ith_color_option">Style option %1$s</string>
+    <string name="ith_complication_display_name">%1$s complication</string>
+    <string name="ith_complication_screen_reader_name">%1$s complication slot</string>
+    <string name="ith_option_display_name">%1$s option</string>
+    <string name="ith_option_screen_reader_name">%1$s list option</string>
+    <string name="ith_style_display_name">%1$s setting</string>
+    <string name="ith_style_screen_reader_name">%1$s style setting</string>
+    <string name="ith_style_setting">Style setting %1$s</string>
+    <string name="moon_phase_evening_crescent">Evening crescent</string>
+    <string name="moon_phase_first_quarter">First quarter</string>
+    <string name="moon_phase_full_moon">Full moon</string>
+    <string name="moon_phase_last_quarter">Last quarter</string>
+    <string name="moon_phase_morning_crescent">Morning crescent</string>
+    <string name="moon_phase_new_moon">New moon</string>
+    <string name="moon_phase_waning_gibbous">Waning gibbous</string>
+    <string name="moon_phase_waxing_gibbous">Waxing gibbous</string>
+    <string name="play_media_screen_reader_name">Play media</string>
+    <string name="preview_long_text_app_shortcut_complication">App shortcut</string>
+    <string name="preview_long_text_battery_complication">Battery: 100%</string>
+    <string name="preview_long_text_day_of_week_complication">Saturday</string>
+    <string name="preview_long_text_next_event_complication">11.00 a.m.: Coffee chat</string>
+    <string name="preview_short_text_battery_complication">100%</string>
+    <string name="preview_short_text_date_complication_text">Feb</string>
+    <string name="preview_short_text_date_complication_title">16</string>
+    <string name="preview_short_text_day_and_date_complication_text">Sat</string>
+    <string name="preview_short_text_day_and_date_complication_title">16 Feb</string>
+    <string name="preview_short_text_day_of_week_complication">Sat</string>
+    <string name="preview_short_text_next_event_complication">11.00am</string>
+    <string name="preview_short_text_step_count_complication_text">Steps</string>
+    <string name="preview_short_text_step_count_complication_title">2000</string>
+    <string name="preview_short_text_sunrise_sunset_complication">6.32 pm</string>
+    <string name="preview_short_text_time_and_date_complication_text">16 Feb</string>
+    <string name="preview_short_text_time_and_date_complication_title">10:10</string>
+    <string name="preview_short_text_unread_notifications_complication">2</string>
+    <string name="preview_short_text_world_clock_complication_text">NYC</string>
+    <string name="preview_short_text_world_clock_complication_title">10:10</string>
+    <string name="progress_bar_screen_reader_name">Progress bar value %1$s</string>
+</resources>

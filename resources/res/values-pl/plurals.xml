@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nowe powiadomienie</item>
+        <item quantity="few">%d nowe powiadomienia</item>
+        <item quantity="many">%d nowych powiadomień</item>
+        <item quantity="other">%d nowego powiadomienia</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dd</item>
+        <item quantity="few">%dd</item>
+        <item quantity="many">%dd</item>
+        <item quantity="other">%dd</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%dg</item>
+        <item quantity="few">%dg</item>
+        <item quantity="many">%dg</item>
+        <item quantity="other">%dg</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%dm</item>
+        <item quantity="few">%dm</item>
+        <item quantity="many">%dm</item>
+        <item quantity="other">%dm</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d dzień</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+        <item quantity="other">%d dnia</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d godzina</item>
+        <item quantity="few">%d godziny</item>
+        <item quantity="many">%d godzin</item>
+        <item quantity="other">%d godziny</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minut</item>
+        <item quantity="other">%d minuty</item>
+    </plurals>
+</resources>

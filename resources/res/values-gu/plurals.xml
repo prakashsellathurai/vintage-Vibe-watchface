@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d નવું નોટિફિકેશન</item>
+        <item quantity="other">%d નવા નોટિફિકેશન</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d દિવસ</item>
+        <item quantity="other">%d દિવસ</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d કલાક</item>
+        <item quantity="other">%d કલાક</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d મિનિટ</item>
+        <item quantity="other">%d મિનિટ</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d દિવસ</item>
+        <item quantity="other">%d દિવસ</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d કલાક</item>
+        <item quantity="other">%d કલાક</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d મિનિટ</item>
+        <item quantity="other">%d મિનિટ</item>
+    </plurals>
+</resources>

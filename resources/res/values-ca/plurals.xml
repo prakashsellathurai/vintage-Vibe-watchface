@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d notificació nova</item>
+        <item quantity="other">%d notificacions noves</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d d</item>
+        <item quantity="many">%d d</item>
+        <item quantity="other">%d d</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d h</item>
+        <item quantity="many">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d m</item>
+        <item quantity="many">%d m</item>
+        <item quantity="other">%d m</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d dia</item>
+        <item quantity="many">%d dies</item>
+        <item quantity="other">%d dies</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="many">%d hores</item>
+        <item quantity="other">%d hores</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d min</item>
+        <item quantity="many">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+</resources>

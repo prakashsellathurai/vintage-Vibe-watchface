@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">ба</string>
+    <string name="background">Дэвсгэр</string>
+    <string name="background_color">Дэвсгэр өнгө</string>
+    <string name="button">OK</string>
+    <string name="character">Зан ааш</string>
+    <string name="clock_type">Цагны төрөл</string>
+    <string name="color">Өнгө</string>
+    <string name="complication">Хүндрэл</string>
+    <string name="complication_color">Нарийн өнгө</string>
+    <string name="dial">Залгах</string>
+    <string name="duo_color">Тойргийн өнгө</string>
+    <string name="font_color">Үсгийн өнгө</string>
+    <string name="hands">Гар</string>
+    <string name="index">Индексүүд</string>
+    <string name="second_hand_color">Хоёр дахь гарын өнгө</string>
+    <string name="tutorial_swipe_bezel_clockwise">Цагны хүрээг цагийн зүүний дагуу шудраад өөр өөр загварууд, өнгөнүүд, эсвэл харьцуулалт үз.</string>
+    <string name="tutorial_swipe_right_left">Загвар, цаг эсвэл хосолсон өнгө тохируулахын тулд зүүн эсвэл баруун шударна уу.</string>
+    <string name="tutorial_swipe_up_down">Дээш эсвэл доош шудраад өөр өөр загвар, өнгө, эсвэл хорологиуд үз.</string>
+</resources>

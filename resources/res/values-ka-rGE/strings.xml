@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">და</string>
+    <string name="background">ფონი</string>
+    <string name="background_color">ფონის ფერი</string>
+    <string name="button">კი</string>
+    <string name="character">სიმბოლო</string>
+    <string name="clock_type">საათის ტიპი</string>
+    <string name="color">ფერი</string>
+    <string name="complication">სირთულე</string>
+    <string name="complication_color">სირთულის ფერი</string>
+    <string name="dial">დამრეკი</string>
+    <string name="duo_color">წრის ფერები</string>
+    <string name="font_color">შრიფტის ფერი</string>
+    <string name="hands">ისრები</string>
+    <string name="index">აღნიშვნები</string>
+    <string name="second_hand_color">მეორე ხელის ფერი</string>
+    <string name="tutorial_swipe_bezel_clockwise">გადაუსვით თითი წრეს საათის ისრის მიმართულებით, რომ ნახოთ სხვადასხვა სტილი, ფერი, ან სირთულე.</string>
+    <string name="tutorial_swipe_right_left">სტილის, ფერის, ან სირთულის შესარჩევად გადაუსვით თითი მარცხნივ ან მარჯვნივ.</string>
+    <string name="tutorial_swipe_up_down">გადაუსვით თითი ზემოთ ან ქვემოთ, რომ ნახოთ სხვადასხვა სტილი, ფერი, ან სირთულე.</string>
+</resources>

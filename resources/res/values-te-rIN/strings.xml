@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">మరియు</string>
+    <string name="background">నేపథ్యం</string>
+    <string name="background_color">నేపథ్యం రంగు</string>
+    <string name="button">సరే</string>
+    <string name="character">స్వభావం</string>
+    <string name="clock_type">గడియారం రకం</string>
+    <string name="color">రంగు</string>
+    <string name="complication">క్లిష్టము</string>
+    <string name="complication_color">సమస్య రంగు</string>
+    <string name="dial">డయల్</string>
+    <string name="duo_color">సర్కిల్ రంగులు</string>
+    <string name="font_color">ఫాంట్ రంగు</string>
+    <string name="hands">హ్యాండ్‌లు</string>
+    <string name="index">సూచికలు</string>
+    <string name="second_hand_color">రెండవ చేతి రంగు</string>
+    <string name="tutorial_swipe_bezel_clockwise">శైలులు, రంగులు, లేదా సమస్యలను చూడటానికి బెజెల్‌ని సవ్యదిశలో స్వైప్ చేయండి.</string>
+    <string name="tutorial_swipe_right_left">శైలి, రంగు లేదా సమస్యను అనుకూలీకరించడానికి బెజెల్‌ని ఎడమ లేదా కుడివైపు స్వైప్ చేయండి.</string>
+    <string name="tutorial_swipe_up_down">వివిధ శైలులు, రంగులు లేదా సమస్యలను చూడటానికి పైకి లేదా కిందికి స్వైప్ చేయండి.</string>
+</resources>

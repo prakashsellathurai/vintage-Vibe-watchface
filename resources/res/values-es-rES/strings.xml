@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">y</string>
+    <string name="background">Fondo</string>
+    <string name="background_color">Color de fondo</string>
+    <string name="button">Aceptar</string>
+    <string name="character">Personaje</string>
+    <string name="clock_type">Tipo de reloj</string>
+    <string name="color">Color</string>
+    <string name="complication">Función</string>
+    <string name="complication_color">Color de función</string>
+    <string name="dial">Esfera</string>
+    <string name="duo_color">Colores círculos</string>
+    <string name="font_color">Color de fuente</string>
+    <string name="hands">Manecillas</string>
+    <string name="index">Índices</string>
+    <string name="second_hand_color">Color de segundero</string>
+    <string name="tutorial_swipe_bezel_clockwise">Desliza el bisel en sentido horario para ver diferentes estilos, colores o funciones.</string>
+    <string name="tutorial_swipe_right_left">Desliza hacia la izquierda o hacia la derecha para personalizar el estilo, el color o la función.</string>
+    <string name="tutorial_swipe_up_down">Desliza hacia arriba o hacia abajo para ver diferentes estilos, colores o funciones.</string>
+</resources>

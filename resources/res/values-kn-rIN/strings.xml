@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">ಮತ್ತು</string>
+    <string name="background">ಹಿನ್ನೆಲೆ</string>
+    <string name="background_color">ಹಿನ್ನೆಲೆ ಬಣ್ಣ</string>
+    <string name="button">ಓಕೆ</string>
+    <string name="character">ಅಕ್ಷರ</string>
+    <string name="clock_type">ಗಡಿಯಾರ ವಿಧ</string>
+    <string name="color">ಬಣ್ಣ</string>
+    <string name="complication">ತೊಡಕು</string>
+    <string name="complication_color">ಸಂಕೀರ್ಣತೆ ಬಣ್ಣ</string>
+    <string name="dial">ಡಯಲ್</string>
+    <string name="duo_color">ವೃತ್ತ ಬಣ್ಣಗಳು</string>
+    <string name="font_color">ಫಾಂಟ್ ಬಣ್ಣ</string>
+    <string name="hands">ಹ್ಯಾಂಡ್‌ಗಳು</string>
+    <string name="index">ಸೂಚ್ಯಂಕಗಳು</string>
+    <string name="second_hand_color">ಸೆಕೆಂಡ್ ಹ್ಯಾಂಡ್ ಬಣ್ಣ</string>
+    <string name="tutorial_swipe_bezel_clockwise">ವಿಭಿನ್ನ ಶೈಲಿಗಳು, ಬಣ್ಣಗಳು ಅಥವಾ ತೊಡಕುಗಳನ್ನು ನೋಡಲು ಬೆಜೆಲ್ ಅನ್ನು ಪ್ರದಕ್ಷಿಣಾಕಾರವಾಗಿ ಸ್ವೈಪ್ ಮಾಡಿ.</string>
+    <string name="tutorial_swipe_right_left">ಶೈಲಿ, ಬಣ್ಣ ಅಥವಾ ಸಂಕೀರ್ಣತೆಯನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಲು ಎಡಕ್ಕೆ ಅಥವಾ ಬಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ.</string>
+    <string name="tutorial_swipe_up_down">ವಿಭಿನ್ನ ಶೈಲಿಗಳು, ಬಣ್ಣಗಳು ಅಥವಾ ತೊಡಕುಗಳನ್ನು ನೋಡಲು ಮೇಲಕ್ಕೆ ಅಥವಾ ಕೆಳಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ.</string>
+</resources>

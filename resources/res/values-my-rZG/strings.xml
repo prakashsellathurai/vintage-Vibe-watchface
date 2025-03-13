@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">ႏွင့္</string>
+    <string name="background">ေနာက္ခံ</string>
+    <string name="background_color">ေနာက္ခံအေရာင္</string>
+    <string name="button">အိုေက</string>
+    <string name="character">ဇာတ္ေကာင္</string>
+    <string name="clock_type">နာရီ အမ်ဳိးအစား</string>
+    <string name="color">အေရာင္</string>
+    <string name="complication">ခက္ခဲေစေသာအရာ</string>
+    <string name="complication_color">အေရာင္ ရႈပ္ေထြးမႈ</string>
+    <string name="dial">ဖုန္းေခၚပါ</string>
+    <string name="duo_color">စက္ဝိုင္း အေရာင္မ်ား</string>
+    <string name="font_color">စာလုံး အေရာင္</string>
+    <string name="hands">လက္မ်ား</string>
+    <string name="index">ၫႊန္းကိန္းမ်ား</string>
+    <string name="second_hand_color">ဒုတိယလက္တံ အေရာင္</string>
+    <string name="tutorial_swipe_bezel_clockwise">မတူညီေသာ ပုံစံမ်ား၊ အေရာင္မ်ား (သို႔) ရႈပ္ေထြးေသာ အရာမ်ားကို ၾကည့္ရန္ ဘီဇယ္ကြင္းကို လက္ယာရစ္ ပြတ္ဆြဲပါ။</string>
+    <string name="tutorial_swipe_right_left">ပံုစံ၊ အေရာင္ (သို႔) ေပါင္းစပ္ ပံုစံမ်ားကို စိတ္ႀကိဳက္သတ္မွတ္ရန္ ဘယ္ (သို႔) ညာသို႔ ပြတ္ဆြဲပါ။</string>
+    <string name="tutorial_swipe_up_down">မတူေသာ စတိုင္မ်ား၊ အေရာင္မ်ား (သို႔) စုစည္းအရာမ်ားကို ၾကည့္ရန္ အထက္ (သို႔) ေအာက္ဘက္သို႔ ပြတ္ဆြဲပါ။</string>
+</resources>

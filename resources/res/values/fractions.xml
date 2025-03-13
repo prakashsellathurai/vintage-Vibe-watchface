@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="confirmation_overlay_text_inset_margin">2.8%</fraction>
+    <fraction name="ws_action_drawer_item_first_item_top_padding">15%</fraction>
+    <fraction name="ws_action_drawer_item_last_item_bottom_padding">15%</fraction>
+    <fraction name="ws_action_drawer_item_left_padding">15%</fraction>
+    <fraction name="ws_action_drawer_item_right_padding">10%</fraction>
+</resources>

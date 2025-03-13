@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d жаңа хабарландыру</item>
+        <item quantity="other">%d жаңа хабарландыру</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dк</item>
+        <item quantity="other">%dк</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d сағ</item>
+        <item quantity="other">%d сағ</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d мин</item>
+        <item quantity="other">%d мин</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d күн</item>
+        <item quantity="other">%d күн</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d сағат</item>
+        <item quantity="other">%d сағат</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d мин</item>
+        <item quantity="other">%d мин</item>
+    </plurals>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">සහ</string>
+    <string name="background">පසුබිම</string>
+    <string name="background_color">පසුබිම් වර්ණය</string>
+    <string name="button">හරි</string>
+    <string name="character">චරිතය</string>
+    <string name="clock_type">ඔරලෝසු වර්ගය</string>
+    <string name="color">වර්ණය</string>
+    <string name="complication">සංකූලතාව</string>
+    <string name="complication_color">සංකූලතා වර්ණය</string>
+    <string name="dial">ඩයල් කරන්න</string>
+    <string name="duo_color">රවුම් වර්ණ</string>
+    <string name="font_color">ෆොන්ට වර්ණය</string>
+    <string name="hands">අත්</string>
+    <string name="index">සූචක</string>
+    <string name="second_hand_color">දෙවන අත් වර්ණය</string>
+    <string name="tutorial_swipe_bezel_clockwise">වෙනස් විලාස, වර්ණ හෝ සංකූලතා බැලීමට බෙසලය දක්ෂිණාවර්තව ස්වයිප් කරන්න.</string>
+    <string name="tutorial_swipe_right_left">විලාසය, වර්ණය, හෝ සංකූලතාව අභිමත කිරීමට වමට හෝ දකුණට ස්වයිප් කරන්න.</string>
+    <string name="tutorial_swipe_up_down">වෙනස් විලාස, වර්ණ හෝ සංකූලතා බැලීමට ඉහළට හෝ පහළට ස්වයිප් කරන්න.</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+        <item quantity="other">%d нового уведомления</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d дн.</item>
+        <item quantity="few">%d дн.</item>
+        <item quantity="many">%d дн.</item>
+        <item quantity="other">%d дн.</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+        <item quantity="many">%d ч.</item>
+        <item quantity="other">%d ч.</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d м.</item>
+        <item quantity="few">%d м.</item>
+        <item quantity="many">%d м.</item>
+        <item quantity="other">%d м.</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+        <item quantity="other">%d дня</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+        <item quantity="many">%d часов</item>
+        <item quantity="other">%d часа</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+        <item quantity="other">%d минуты</item>
+    </plurals>
+</resources>

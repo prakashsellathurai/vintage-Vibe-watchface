@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">和</string>
+    <string name="background">背景</string>
+    <string name="background_color">背景颜色</string>
+    <string name="button">تامام</string>
+    <string name="character">画风</string>
+    <string name="clock_type">سائەت تۈرى</string>
+    <string name="color">颜色</string>
+    <string name="complication">复杂</string>
+    <string name="complication_color">组合区颜色</string>
+    <string name="dial">刻度盘</string>
+    <string name="duo_color">圆圈颜色</string>
+    <string name="font_color">خەت رەڭگى</string>
+    <string name="hands">قول</string>
+    <string name="index">指针</string>
+    <string name="second_hand_color">秒针颜色</string>
+    <string name="tutorial_swipe_bezel_clockwise">ھالقىنى سائەت يۆنىلىشىدە چۆرۈسىڭىز، ھەرخىل ئۇسلۇب، رەڭ ياكى ئىقتىدار ئۆزگىرىدۇ.</string>
+    <string name="tutorial_swipe_right_left">向左或向右滑动可自定义风格、颜色或功能组合。</string>
+    <string name="tutorial_swipe_up_down">ئۈستى-ئاستىغا سىيرىپ ھەرخىل ئۇسلۇب، رەڭ ياكى ئىقتىدارلارنى كۆرۈڭ.</string>
+</resources>

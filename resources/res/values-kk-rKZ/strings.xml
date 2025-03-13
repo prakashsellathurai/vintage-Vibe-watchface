@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">және</string>
+    <string name="background">Фон</string>
+    <string name="background_color">Фон түсі</string>
+    <string name="button">OK</string>
+    <string name="character">Таңба</string>
+    <string name="clock_type">Сағат түрі</string>
+    <string name="color">Түсі</string>
+    <string name="complication">Күрделілік</string>
+    <string name="complication_color">Күрделілік түсі</string>
+    <string name="dial">Теру</string>
+    <string name="duo_color">Шеңбер түстері</string>
+    <string name="font_color">Қаріп түсі</string>
+    <string name="hands">Қолдар</string>
+    <string name="index">Индекстер</string>
+    <string name="second_hand_color">Секундты көрсететін тіл түсі</string>
+    <string name="tutorial_swipe_bezel_clockwise">Әртүрлі стильдерді, түстерді немесе күрделіліктерді көру үшін дөңгелекті сағат тілінің бағытымен жүргізіп өтіңіз.</string>
+    <string name="tutorial_swipe_right_left">Стильді, түсті немесе күрделілікті реттеу үшін солға немесе оңға жүргізіп өтіңіз.</string>
+    <string name="tutorial_swipe_up_down">Басқа стильдерді, түстерді немесе күрделіліктерді көру үшін жоғарыға не төменге жүргізіп өтіңіз.</string>
+</resources>

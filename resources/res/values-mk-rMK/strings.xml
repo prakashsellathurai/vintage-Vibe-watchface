@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">и</string>
+    <string name="background">Заднина</string>
+    <string name="background_color">Боја за заднина</string>
+    <string name="button">OK</string>
+    <string name="character">Лик</string>
+    <string name="clock_type">Вид часовник</string>
+    <string name="color">Боја</string>
+    <string name="complication">Компликација</string>
+    <string name="complication_color">Боја на компликација</string>
+    <string name="dial">Kопче за бирање</string>
+    <string name="duo_color">Бои на круг</string>
+    <string name="font_color">Боја на фонтот</string>
+    <string name="hands">Раце</string>
+    <string name="index">Индекси</string>
+    <string name="second_hand_color">Боја на раката за секунди</string>
+    <string name="tutorial_swipe_bezel_clockwise">Поминете врз лежиштето надесно за да видите различни стилови, бои или компликации.</string>
+    <string name="tutorial_swipe_right_left">Поминете налево или надесно за да ги прилагодите стилот, бојата или компликацијата.</string>
+    <string name="tutorial_swipe_up_down">Поминете нагоре или надолу за да видите различни стилови, бои или компликации.</string>
+</resources>

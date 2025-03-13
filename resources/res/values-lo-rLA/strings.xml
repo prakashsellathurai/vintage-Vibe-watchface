@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">ແລະ</string>
+    <string name="background">ພື້ນຫຼັງ</string>
+    <string name="background_color">ສີພື້ນຫຼັງ</string>
+    <string name="button">ຕົກລົງ</string>
+    <string name="character">ຕົວອັກສອນ</string>
+    <string name="clock_type">ປະເພດໂມງ</string>
+    <string name="color">ສີ</string>
+    <string name="complication">ຄວາມຫຍຸ້ງຍາກ</string>
+    <string name="complication_color">ສີທີ່ແຊກຊ້ອນ</string>
+    <string name="dial">ໂທ</string>
+    <string name="duo_color">ສີວົງມົນ</string>
+    <string name="font_color">ສີຕົວໜັງສື</string>
+    <string name="hands">ມື</string>
+    <string name="index">ດັດຊະນີ</string>
+    <string name="second_hand_color">ສີມືສອງ</string>
+    <string name="tutorial_swipe_bezel_clockwise">ຮູດຂອບຕົວເລື່ອນໄປຕາມທິດເຂັ້ມໂມງເພື່ອເບິ່ງຮູບແບບ, ສີ, ຫຼື ສິ່ງແຊກຊ້ອນອື່ນໆ.</string>
+    <string name="tutorial_swipe_right_left">ຮູດໄປຊ້າຍ ຫຼື ຂວາ ເພື່ອກຳນົດຮູບແບບ, ສີ, ຫຼື ສິ່ງແຊກຊ້ອນຕ່າງໆເອງ.</string>
+    <string name="tutorial_swipe_up_down">ຮູດຂຶ້ນ ຫຼື ລົງເພື່ອເບິ່ງຮູບແບບ, ສີ, ຫຼື ສິ່ງແຊກຊ້ອນຕ່າງໆ.</string>
+</resources>

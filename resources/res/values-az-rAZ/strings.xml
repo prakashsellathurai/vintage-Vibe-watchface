@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">və</string>
+    <string name="background">Fon</string>
+    <string name="background_color">Fon rəngi</string>
+    <string name="button">OK</string>
+    <string name="character">Simvol</string>
+    <string name="clock_type">Saat növü</string>
+    <string name="color">Rəng</string>
+    <string name="complication">Mürəkkəblik</string>
+    <string name="complication_color">Təkmilləşmənin rəngi</string>
+    <string name="dial">Yığma</string>
+    <string name="duo_color">Dairə rəngləri</string>
+    <string name="font_color">Şrift rəngi</string>
+    <string name="hands">Əqrəblər</string>
+    <string name="index">İndekslər</string>
+    <string name="second_hand_color">Saniyə əqrəbinin rəngi</string>
+    <string name="tutorial_swipe_bezel_clockwise">Müxtəlif üslublara, rənglərə və ya təkmilləşmələrə baxmaq üçün paneli saat əqrəbi istiqamətində sürüşdürün.</string>
+    <string name="tutorial_swipe_right_left">Üslubu, rəngi və ya təkmilləşməni fərdiləşdirmək üçün sola və ya sağa sürüşdürün.</string>
+    <string name="tutorial_swipe_up_down">Müxtəlif üslublara, rənglərə və ya təkmilləşmələrə baxmaq üçün yuxarı və ya aşağı sürüşdürün.</string>
+</resources>

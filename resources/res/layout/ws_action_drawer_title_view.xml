@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:dist="http://schemas.android.com/apk/distribution" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="@dimen/ws_action_drawer_title_start_weight"/>
+    <TextView android:gravity="center" android:id="@+id/ws_action_drawer_title" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="@dimen/ws_action_drawer_title_body_weight" style="@style/WsWearableActionDrawerTitleText"/>
+    <Space android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="@dimen/ws_action_drawer_title_end_weight"/>
+</LinearLayout>

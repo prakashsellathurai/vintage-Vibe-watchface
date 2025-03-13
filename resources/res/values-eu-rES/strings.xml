@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">eta</string>
+    <string name="background">Atzealdea</string>
+    <string name="background_color">Atzealdeko kolorea</string>
+    <string name="button">Ados</string>
+    <string name="character">Pertsonaia</string>
+    <string name="clock_type">Erloju mota</string>
+    <string name="color">Kolorea</string>
+    <string name="complication">Konplexutasuna</string>
+    <string name="complication_color">Xehetasunen kolorea</string>
+    <string name="dial">Markatu</string>
+    <string name="duo_color">Zirk. koloreak</string>
+    <string name="font_color">Letra kolorea</string>
+    <string name="hands">Eskuak</string>
+    <string name="index">Indizeak</string>
+    <string name="second_hand_color">Segundoen orratzaren kolorea</string>
+    <string name="tutorial_swipe_bezel_clockwise">Biratu gurpila eskuinera estiloak, koloreak eta beste ikusteko.</string>
+    <string name="tutorial_swipe_right_left">Irristatu hatza ezkerrera edo eskuinera estiloa, kolorea edo xehetasunak pertsonalizatzeko.</string>
+    <string name="tutorial_swipe_up_down">Irristatu hatza gora edo behera estiloak, koloreak eta beste ikusteko.</string>
+</resources>

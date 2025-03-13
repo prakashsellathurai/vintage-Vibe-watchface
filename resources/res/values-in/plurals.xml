@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d notifikasi baru</item>
+        <item quantity="other">%d notifikasi baru</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d j</item>
+        <item quantity="other">%d j</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d m</item>
+        <item quantity="other">%d m</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d hari</item>
+        <item quantity="other">%d hari</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d jam</item>
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d mnt</item>
+        <item quantity="other">%d mnt</item>
+    </plurals>
+</resources>

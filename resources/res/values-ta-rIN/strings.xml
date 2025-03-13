@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">மற்றும்</string>
+    <string name="background">பின்னணி</string>
+    <string name="background_color">பின்னணி நிறம்</string>
+    <string name="button">சரி</string>
+    <string name="character">எழுத்து</string>
+    <string name="clock_type">கடிகார வகை</string>
+    <string name="color">நிறம்</string>
+    <string name="complication">காம்ப்ளிகேஷன்</string>
+    <string name="complication_color">வடிவமைப்பு நிறம்</string>
+    <string name="dial">டயல்</string>
+    <string name="duo_color">வட்ட நிறங்கள்</string>
+    <string name="font_color">எழுத்துரு நிறம்</string>
+    <string name="hands">கடிகார முள்கள்</string>
+    <string name="index">அட்டவணைகள்</string>
+    <string name="second_hand_color">வினாடி முள்ளின் நிறம்</string>
+    <string name="tutorial_swipe_bezel_clockwise">மாறுபட்ட நடைகள், நிறங்கள் அல்லது ஒருங்கிணைப்புகளைக் காண, பெஸலை வலஞ்சுழியாக ஸ்வைப் செய்யவும்.</string>
+    <string name="tutorial_swipe_right_left">நடை, நிறம் அல்லது தோற்றத்தைத் தனிப்பயனாக்க இடது அல்லது வலதுபுறமாக ஸ்வைப் செய்யவும்.</string>
+    <string name="tutorial_swipe_up_down">மாறுபட்ட நடைகள், நிறங்கள் அல்லது ஒருங்கிணைப்புகளைக் காண மேல் அல்லது கீழ்நோக்கி ஸ்வைப் செய்யவும்.</string>
+</resources>

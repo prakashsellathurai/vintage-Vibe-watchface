@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">i</string>
+    <string name="background">Tło</string>
+    <string name="background_color">Kolor tła</string>
+    <string name="button">OK</string>
+    <string name="character">Postać</string>
+    <string name="clock_type">Zorta zygara</string>
+    <string name="color">Kolor</string>
+    <string name="complication">Kōmplikacyjŏ</string>
+    <string name="complication_color">Kolor kompozycji</string>
+    <string name="dial">Cyferblat</string>
+    <string name="duo_color">Kolory kółek</string>
+    <string name="font_color">Farba czciōnki</string>
+    <string name="hands">Dorady</string>
+    <string name="index">Indeksy</string>
+    <string name="second_hand_color">Kolor drugiej wskazówki</string>
+    <string name="tutorial_swipe_bezel_clockwise">Przeciōng palcym rōmka w prawo, coby zobŏczyć roztōmajte style, farby i dodatkowe info.</string>
+    <string name="tutorial_swipe_right_left">Przeciągnij palcem w lewo lub w prawo, aby dostosować styl, kolor lub kompozycję.</string>
+    <string name="tutorial_swipe_up_down">Przeciōng palcym po ekranie na gōra abo na dōł, coby ôbejrzeć roztōmajte sznity, farby i dodatkowe info.</string>
+</resources>

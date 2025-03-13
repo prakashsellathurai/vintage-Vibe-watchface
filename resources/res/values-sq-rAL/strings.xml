@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">dhe</string>
+    <string name="background">Sfondi</string>
+    <string name="background_color">Ngjyra e sfondit</string>
+    <string name="button">OK</string>
+    <string name="character">Personazhi</string>
+    <string name="clock_type">Lloji i orës</string>
+    <string name="color">Ngjyra</string>
+    <string name="complication">Ndërlikimi</string>
+    <string name="complication_color">Ngjyra e ndërlikimit</string>
+    <string name="dial">Fusha e orës</string>
+    <string name="duo_color">Ngjy. e rrathëve</string>
+    <string name="font_color">Ngjyra e fontit</string>
+    <string name="hands">Akrepat</string>
+    <string name="index">Indekse</string>
+    <string name="second_hand_color">Ngjyra e akrepit të sekondave</string>
+    <string name="tutorial_swipe_bezel_clockwise">Rrëshqite unazën në drejtim orar për të parë stile, ngjyra ose ndërlikime të ndryshme.</string>
+    <string name="tutorial_swipe_right_left">Rrëshqit majtas ose djathtas për të personalizuar stilin, ngjyrën ose ndërlikimin.</string>
+    <string name="tutorial_swipe_up_down">Rrëshqit lart ose poshtë për të parë stile, ngjyra ose ndërlikime të ndryshme.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d jakinarazpen berri</item>
+        <item quantity="other">%d jakinarazpen berri</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d e.</item>
+        <item quantity="other">%d e.</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d egun</item>
+        <item quantity="other">%d egun</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d ordu</item>
+        <item quantity="other">%d ordu</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d minutu</item>
+        <item quantity="other">%d minutu</item>
+    </plurals>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">і</string>
+    <string name="background">Фонавы</string>
+    <string name="background_color">Фонавы колер</string>
+    <string name="button">ОК</string>
+    <string name="character">Сімвал</string>
+    <string name="clock_type">Тып гадзінніка</string>
+    <string name="color">Колер</string>
+    <string name="complication">Складанасць</string>
+    <string name="complication_color">Колер ускладнення</string>
+    <string name="dial">Набор</string>
+    <string name="duo_color">Колеры ў кругах</string>
+    <string name="font_color">Колер шрыфту</string>
+    <string name="hands">Стрэлкі</string>
+    <string name="index">Індэксы</string>
+    <string name="second_hand_color">Колер секунднай стрэлкі</string>
+    <string name="tutorial_swipe_bezel_clockwise">Правядзіце па шкале па гадзіннікавай стрэлцы, каб убачыць розныя стылі, колеры або ўскладненні.</string>
+    <string name="tutorial_swipe_right_left">Правядзіце ўлева або ўправа, каб дапасаваць стыль, колер або ўскладненне.</string>
+    <string name="tutorial_swipe_up_down">Правядзіце ўверх або ўніз, каб убачыць розныя стылі, колеры або ўскладненні.</string>
+</resources>

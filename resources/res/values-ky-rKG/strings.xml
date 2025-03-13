@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">жана</string>
+    <string name="background">Фон</string>
+    <string name="background_color">Фон түсү</string>
+    <string name="button">ОК</string>
+    <string name="character">Каарман</string>
+    <string name="clock_type">Саат түрү</string>
+    <string name="color">Түс</string>
+    <string name="complication">Татаалдык</string>
+    <string name="complication_color">Татаал түс</string>
+    <string name="dial">Терүү</string>
+    <string name="duo_color">Айлана түстөрү</string>
+    <string name="font_color">Шрифт түсү</string>
+    <string name="hands">Кол</string>
+    <string name="index">Индекстер</string>
+    <string name="second_hand_color">Экинчи колдун түсү</string>
+    <string name="tutorial_swipe_bezel_clockwise">Ар кандай стилдерди, түстөрдү же татаалдыктарды көрүү үчүн кармагычты саат жебеси боюнча жылдырыңыз.</string>
+    <string name="tutorial_swipe_right_left">Стилди, өңдү же татаалдаштырууну жекечелештирүү үчүн солго же оңго жылдырыңыз.</string>
+    <string name="tutorial_swipe_up_down">Жогору же ылдый сүрүп, ар башка стилдерди, түстөрдү же кошумча функцияларды көрүңүз.</string>
+</resources>

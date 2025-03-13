@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dd</item>
+        <item quantity="many">%dd</item>
+        <item quantity="other">%dd</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%dh</item>
+        <item quantity="many">%dh</item>
+        <item quantity="other">%dh</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%dmin</item>
+        <item quantity="many">%dmin</item>
+        <item quantity="other">%dmin</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d dia</item>
+        <item quantity="many">%d dias</item>
+        <item quantity="other">%d dias</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="many">%d horas</item>
+        <item quantity="other">%d horas</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d minuto</item>
+        <item quantity="many">%d minutos</item>
+        <item quantity="other">%d minutos</item>
+    </plurals>
+</resources>

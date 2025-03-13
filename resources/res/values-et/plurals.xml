@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d uus märguanne</item>
+        <item quantity="other">%d uut märguannet</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d p</item>
+        <item quantity="other">%d p</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d päev</item>
+        <item quantity="other">%d päeva</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d tund</item>
+        <item quantity="other">%d tundi</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+</resources>

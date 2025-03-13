@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d نئی اطلاع</item>
+        <item quantity="other">%d نئی اطلاعات</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d دن</item>
+        <item quantity="other">%d دن</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d گھنٹہ</item>
+        <item quantity="other">%d گھنٹہ</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d منٹ</item>
+        <item quantity="other">%d منٹ</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d دن</item>
+        <item quantity="other">%d دن</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d گھنٹہ</item>
+        <item quantity="other">%d گھنٹے</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d منٹ</item>
+        <item quantity="other">%d منٹ</item>
+    </plurals>
+</resources>

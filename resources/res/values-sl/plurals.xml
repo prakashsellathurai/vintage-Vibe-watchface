@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+        <item quantity="other">%d novih obvestil</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d d</item>
+        <item quantity="two">%d d</item>
+        <item quantity="few">%d d</item>
+        <item quantity="other">%d d</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d h</item>
+        <item quantity="two">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d m</item>
+        <item quantity="two">%d m</item>
+        <item quantity="few">%d m</item>
+        <item quantity="other">%d m</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d dan</item>
+        <item quantity="two">%d dneva</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="other">%d dni</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d ura</item>
+        <item quantity="two">%d uri</item>
+        <item quantity="few">%d ure</item>
+        <item quantity="other">%d ur</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d min</item>
+        <item quantity="two">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+</resources>

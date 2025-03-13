@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">اور</string>
+    <string name="background">پس منظر</string>
+    <string name="background_color">پس منظر کا رنگ</string>
+    <string name="button">ٹھیک ہے</string>
+    <string name="character">کردار</string>
+    <string name="clock_type">گھڑی کی قسم</string>
+    <string name="color">رنگ</string>
+    <string name="complication">پیچیدگی</string>
+    <string name="complication_color">کامپلکیشن کا رنگ</string>
+    <string name="dial">ڈائل</string>
+    <string name="duo_color">دائرے کے رنگ</string>
+    <string name="font_color">فونٹ رنگ</string>
+    <string name="hands">ہینڈز</string>
+    <string name="index">انڈیکسز</string>
+    <string name="second_hand_color">سیکنڈ کے کانٹے رنگ</string>
+    <string name="tutorial_swipe_bezel_clockwise">مختلف طریقے، رنگیں، یا پیچیدگیاں دیکھنے کے لیے بیزل کو مخالف گھڑی وار سوائپ کریں۔</string>
+    <string name="tutorial_swipe_right_left">اسٹائل، رنگ یا کامپلکیشن کو حسب ضرورت بنانے کیلئے، بائیں یا دائیں سوائپ کریں۔</string>
+    <string name="tutorial_swipe_up_down">مختلف طریقے، رنگیں، یا پیچیدگیاں دیکھنے کے لیے اوپر یا نیچے سوائپ کریں۔</string>
+</resources>

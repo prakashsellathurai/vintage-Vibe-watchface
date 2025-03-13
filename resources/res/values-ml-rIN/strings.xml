@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">കൂടാതെ</string>
+    <string name="background">പശ്ചാത്തലം</string>
+    <string name="background_color">പശ്ചാത്തല നിറം</string>
+    <string name="button">ശരി</string>
+    <string name="character">അക്ഷരം</string>
+    <string name="clock_type">ക്ലോക്ക് തരം</string>
+    <string name="color">നിറം</string>
+    <string name="complication">സങ്കീർണ്ണത</string>
+    <string name="complication_color">സങ്കീർണ്ണ നിറം</string>
+    <string name="dial">ഡയൽ</string>
+    <string name="duo_color">വൃത്ത നിറങ്ങൾ</string>
+    <string name="font_color">ഫോണ്ട് നിറം</string>
+    <string name="hands">കൈകൾ</string>
+    <string name="index">സൂചികകൾ</string>
+    <string name="second_hand_color">സെക്കന്‍റ് സൂചി നിറം</string>
+    <string name="tutorial_swipe_bezel_clockwise">വ്യത്യസ്ത ശൈലികൾ, നിറങ്ങൾ, അല്ലെങ്കിൽ സങ്കീർണ്ണതകൾ എന്നിവ കാണുന്നതിന് ബെസെൽ ഘടികാര ദിശയിൽ സ്വൈപ്പ് ചെയ്യുക.</string>
+    <string name="tutorial_swipe_right_left">ശൈലി, നിറം, അല്ലെങ്കിൽ സങ്കീർണ്ണത ഇച്ഛാനുസൃതമാക്കുന്നതിന് ഇടത്തോട്ടോ വലത്തോട്ടോ സ്വൈപ് ചെയ്യുക.</string>
+    <string name="tutorial_swipe_up_down">വ്യത്യസ്തമായ ശൈലികൾ, നിറങ്ങൾ, അല്ലെങ്കിൽ സങ്കീർണ്ണതകൾ കാണുന്നതിന് മുകളിലേയ്ക്കോ താഴേയ്ക്കോ സ്വൈപ് ചെയ്യുക.</string>
+</resources>

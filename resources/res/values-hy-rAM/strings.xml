@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">և</string>
+    <string name="background">Ետնապատկեր</string>
+    <string name="background_color">Ֆոնային գույն</string>
+    <string name="button">Ընդունել</string>
+    <string name="character">Կերպար</string>
+    <string name="clock_type">Ժամացույցի տիպը</string>
+    <string name="color">Գույն</string>
+    <string name="complication">Բարդություն</string>
+    <string name="complication_color">Լրացուցիչ գործառույթի գույն</string>
+    <string name="dial">Համարահավաքիչ</string>
+    <string name="duo_color">Շրջանի գույներ</string>
+    <string name="font_color">Տառի գույն</string>
+    <string name="hands">Սլաքներ</string>
+    <string name="index">Սլաքներ</string>
+    <string name="second_hand_color">Վայրկյանի սլաքի գույն</string>
+    <string name="tutorial_swipe_bezel_clockwise">Մատով սահեցրեք շրջանակը ժամացույցի սլաքի ուղղությամբ՝ տարբեր ոճեր, գույներ կամ բարդ տարրեր տեսնելու համար:</string>
+    <string name="tutorial_swipe_right_left">Մատով սահեցրեք ձախ կամ աջ՝ ոճը, գույնը կամ լրացուցիչ գործառույթը անհատականացնելու համար:</string>
+    <string name="tutorial_swipe_up_down">Մատը սահեցրեք վեր կամ վար՝ տարբեր ոճեր, գույներ կամ բարդ տարրեր տեսնելու համար:</string>
+</resources>

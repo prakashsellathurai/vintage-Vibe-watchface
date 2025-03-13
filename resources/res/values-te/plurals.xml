@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d కొత్త నోటిఫికేషన్</item>
+        <item quantity="other">%d కొత్త నోటిఫికేషన్‌లు</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dరో</item>
+        <item quantity="other">%dరో</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%dగం</item>
+        <item quantity="other">%dగం</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%dని</item>
+        <item quantity="other">%dని</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d రోజు</item>
+        <item quantity="other">%d రోజులు</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d గంట</item>
+        <item quantity="other">%d గంటలు</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d నిమిషం</item>
+        <item quantity="other">%dనిమిషాలు</item>
+    </plurals>
+</resources>

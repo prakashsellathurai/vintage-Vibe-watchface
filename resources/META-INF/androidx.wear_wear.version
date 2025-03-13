@@ -1,0 +1,1 @@
+task ':wear:wear:writeVersionFile' property 'version'

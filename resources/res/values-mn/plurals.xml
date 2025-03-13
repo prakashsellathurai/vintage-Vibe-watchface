@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d шинэ мэдэгдэл</item>
+        <item quantity="other">%d шинэ мэдэгдэл</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dө</item>
+        <item quantity="other">%dө</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%dц</item>
+        <item quantity="other">%dц</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%dм</item>
+        <item quantity="other">%dм</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d өдөр</item>
+        <item quantity="other">%d өдөр</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d цаг</item>
+        <item quantity="other">%d цаг</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d мин</item>
+        <item quantity="other">%d мин</item>
+    </plurals>
+</resources>

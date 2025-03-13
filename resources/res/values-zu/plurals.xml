@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d izaziso ezintsha</item>
+        <item quantity="other">%d izaziso ezintsha</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">izinsuku%d</item>
+        <item quantity="other">izinsuku%d</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">amahora%d</item>
+        <item quantity="other">amahora%d</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">imizuzu%d</item>
+        <item quantity="other">imizuzu%d</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">izinsuku %d</item>
+        <item quantity="other">izinsuku %d</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">amahora %d</item>
+        <item quantity="other">amahora %d</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">imizuzu %d</item>
+        <item quantity="other">imizuzu %d</item>
+    </plurals>
+</resources>

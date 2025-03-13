@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
+        <item quantity="other">ការជូនដំណឹងថ្មី %d</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dថ</item>
+        <item quantity="other">%dថ</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%dម៉</item>
+        <item quantity="other">%dម៉</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%dន</item>
+        <item quantity="other">%dន</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d ថ្ងៃ</item>
+        <item quantity="other">%d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d ម៉ោង</item>
+        <item quantity="other">%d ម៉ោង</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d ន</item>
+        <item quantity="other">%d ន</item>
+    </plurals>
+</resources>

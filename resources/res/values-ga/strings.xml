@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">agus</string>
+    <string name="background">Cúlra</string>
+    <string name="background_color">Dath an chúlra</string>
+    <string name="button">OK</string>
+    <string name="character">Carachtar</string>
+    <string name="clock_type">Cineál cloig</string>
+    <string name="color">Dath</string>
+    <string name="complication">Castacht</string>
+    <string name="complication_color">Dath castachtaí</string>
+    <string name="dial">Diail</string>
+    <string name="duo_color">Dath ciorcail</string>
+    <string name="font_color">Dath cló</string>
+    <string name="hands">Lámha</string>
+    <string name="index">Innéacsanna</string>
+    <string name="second_hand_color">Dath shnáthaid na soicindí</string>
+    <string name="tutorial_swipe_bezel_clockwise">Svaidhpeáil an beiséal deiseal le stíleanna, dathanna, nó castachtaí difriúla a fheiceáil.</string>
+    <string name="tutorial_swipe_right_left">Svaidhpeáil ar chlé nó ar dheis leis an stíl, dath, nó castacht a shaincheapadh.</string>
+    <string name="tutorial_swipe_up_down">Svaidhpeáil suas nó síos le stíleanna, dathanna, nó castachtaí difriúla a fheiceáil.</string>
+</resources>

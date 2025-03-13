@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">ਅਤੇ</string>
+    <string name="background">ਬੈਕਗ੍ਰਾਉਂਡ</string>
+    <string name="background_color">ਬੈਕਗ੍ਰਾਉਂਡ ਦਾ ਰੰਗ</string>
+    <string name="button">ਓਕੇ</string>
+    <string name="character">ਕਿਰਦਾਰ</string>
+    <string name="clock_type">ਘੜੀ ਪ੍ਰਕਾਰ</string>
+    <string name="color">ਰੰਗ</string>
+    <string name="complication">ਜਟਿਲਤਾ</string>
+    <string name="complication_color">ਜਟਿਲਤਾ ਦਾ ਰੰਗ</string>
+    <string name="dial">ਡਾਇਲ</string>
+    <string name="duo_color">ਚੱਕਰ ਦੇ ਰੰਗ</string>
+    <string name="font_color">ਫੌਂਟ ਦਾ ਰੰਗ</string>
+    <string name="hands">ਘੜੀ ਦੀਆਂ ਸੂਈਆਂ</string>
+    <string name="index">ਅਨੁਕ੍ਰਮਣਿਕਾ</string>
+    <string name="second_hand_color">ਦੂਜੇ ਹੱਥ ਦਾ ਰੰਗ</string>
+    <string name="tutorial_swipe_bezel_clockwise">ਵਿਭਿੰਨ ਸ਼ੈਲੀਆਂ, ਰੰਗ, ਜਾਂ ਜਟਿਲਤਾਵਾਂ ਨੂੰ ਦੇਖਣ ਲਈ ਬੇਜ਼ਲ ਨੂੰ ਕਲੌਕਵਾਇਜ਼ ਸਵਾਈਪ ਕਰੋ।</string>
+    <string name="tutorial_swipe_right_left">ਸ਼ੈਲੀ, ਰੰਗ, ਜਾਂ ਜਟਿਲਤਾ ਅਨੁਕੂਲਿਤ ਕਰਨ ਲਈ ਖੱਬੇ ਜਾਂ ਸੱਜੇ ਸਵਾਈਪ ਕਰੋ।</string>
+    <string name="tutorial_swipe_up_down">ਵਿਭਿੰਨ ਸ਼ੈਲੀਆਂ, ਰੰਗ, ਜਾਂ ਜਟਿਲਤਾਵਾਂ ਨੂੰ ਦੇਖਣ ਲਈ ਉੱਪਰ ਜਾਂ ਹੇਠਾਂ ਸਵਾਈਪ ਕਰੋ।</string>
+</resources>

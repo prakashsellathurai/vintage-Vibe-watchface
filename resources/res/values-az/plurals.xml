@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d yeni bildiriş</item>
+        <item quantity="other">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d g</item>
+        <item quantity="other">%d g</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d d</item>
+        <item quantity="other">%d d</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d gün</item>
+        <item quantity="other">%d gün</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d dəq</item>
+        <item quantity="other">%d dəq</item>
+    </plurals>
+</resources>

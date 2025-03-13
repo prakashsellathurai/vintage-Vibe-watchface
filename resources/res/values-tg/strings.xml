@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">ва</string>
+    <string name="background">Пасзамина</string>
+    <string name="background_color">Ранги пасзамина</string>
+    <string name="button">OK</string>
+    <string name="character">Аломат</string>
+    <string name="clock_type">Навъи соат</string>
+    <string name="color">Ранг</string>
+    <string name="complication">Душворӣ</string>
+    <string name="complication_color">Ранги изофа</string>
+    <string name="dial">Тобак</string>
+    <string name="duo_color">Рангҳои ҳалқаҳо</string>
+    <string name="font_color">Ранги ҳуруф</string>
+    <string name="hands">Ақрабакҳо</string>
+    <string name="index">Индексҳо</string>
+    <string name="second_hand_color">Ранги ақрабаки сония</string>
+    <string name="tutorial_swipe_bezel_clockwise">Барои сабкҳо, рангҳо ё изофаҳои дигарро дидан, чанбарро ба рост бимолед диҳед.</string>
+    <string name="tutorial_swipe_right_left">Барои сабк, ранг ё изофаи соатро фармоиш додан, ба чап ё рост бимолед.</string>
+    <string name="tutorial_swipe_up_down">Барои сабкҳо, рангҳо ё изофаҳои дигарро дидан, ба боло ё поён бимолед.</string>
+</resources>

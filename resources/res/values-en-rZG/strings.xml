@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">and</string>
+    <string name="background">Background</string>
+    <string name="background_color">Background color</string>
+    <string name="button">OK</string>
+    <string name="character">Character</string>
+    <string name="clock_type">Clock type</string>
+    <string name="color">Color</string>
+    <string name="complication">Complication</string>
+    <string name="complication_color">Complication color</string>
+    <string name="dial">Dial</string>
+    <string name="duo_color">Circle colors</string>
+    <string name="font_color">Font color</string>
+    <string name="hands">Hands</string>
+    <string name="index">Indexes</string>
+    <string name="second_hand_color">Second hand color</string>
+    <string name="tutorial_swipe_bezel_clockwise">Swipe the bezel clockwise to see different styles, colors, or complications.</string>
+    <string name="tutorial_swipe_right_left">Swipe left or right to customize the style, color, or complication.</string>
+    <string name="tutorial_swipe_up_down">Swipe up or down to see different styles, colors, or complications.</string>
+</resources>

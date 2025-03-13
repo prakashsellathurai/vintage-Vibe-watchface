@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">དང་།</string>
+    <string name="background">རྒྱབ་ལྗོངས།</string>
+    <string name="background_color">背景颜色</string>
+    <string name="button">གཏན་འཁེལ།</string>
+    <string name="character">画风</string>
+    <string name="clock_type">དུས་ཅོང་རིགས་གྲས།</string>
+    <string name="color">颜色</string>
+    <string name="complication">རྙོག་པ།</string>
+    <string name="complication_color">组合区颜色</string>
+    <string name="dial">ཚད་བརྐོས་སྡེར།</string>
+    <string name="duo_color">圆圈颜色</string>
+    <string name="font_color">ཡིག་གཟུགས་ཁ་དོག</string>
+    <string name="hands">འཁོར་མདའ།</string>
+    <string name="index">指针</string>
+    <string name="second_hand_color">秒针颜色</string>
+    <string name="tutorial_swipe_bezel_clockwise">དུས་ཁབ་འཁོར་ཕྱོགས་སུ་འཁོར་སྡེར་སྐོར་ནས་ཚུགས་ཀ་མི་འདྲ་བའི་ཁ་དོག་གམ་རྩོལ་ནུས་སྡེབ་སྒྲིག་ལ་ལྟ་རྟོག་བྱེད།</string>
+    <string name="tutorial_swipe_right_left">向左或向右滑动可自定义风格、颜色或功能组合。</string>
+    <string name="tutorial_swipe_up_down">གཡོན་ནམ་གཡས་སུ་འདྲེད་འགུལ་བྱས་ནས་ཚུགས་ཀ ཁག་དོག་གམ་རྩོལ་ནུས་སྡེབ་སྒྲིག་ལ་ལྟ་རྟོག་བྱེད།</string>
+</resources>

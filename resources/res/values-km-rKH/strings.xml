@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">និង</string>
+    <string name="background">ផ្ទៃខាងក្រោយ</string>
+    <string name="background_color">ពណ៌​ផ្ទៃខាងក្រោយ</string>
+    <string name="button">ព្រម</string>
+    <string name="character">តួអក្សរ</string>
+    <string name="clock_type">ប្រភេទ​នាឡិកា</string>
+    <string name="color">ពណ៌</string>
+    <string name="complication">ធាតុផ្សំ</string>
+    <string name="complication_color">ពណ៌​ធាតុផ្សំ</string>
+    <string name="dial">ប្រដាប់មួល</string>
+    <string name="duo_color">ពណ៌​រង្វង់</string>
+    <string name="font_color">ពណ៌​ពុម្ពអក្សរ</string>
+    <string name="hands">ទ្រនិច</string>
+    <string name="index">ដៃចង្អុល</string>
+    <string name="second_hand_color">ពណ៌​ទ្រនិច​វិនាទី</string>
+    <string name="tutorial_swipe_bezel_clockwise">អូស​មុខទេរ​តាម​ទិស​ទ្រនិច​នាឡិកា ដើម្បី​ឃើញ​ស្ទីល, ពណ៌ ឬ​ធាតុផ្សំ​ផ្សេង។</string>
+    <string name="tutorial_swipe_right_left">អូស​មក​ឆ្វេង​ឬ​ទៅ​ស្ដាំ ដើម្បី​ប្ដូរ​តាមបំណង​សម្រាប់​ស្ទីល, ពណ៌ ឬ​ធាតុផ្សំ។</string>
+    <string name="tutorial_swipe_up_down">អូស​ឡើងលើ​ឬ​ចុះក្រោម ដើម្បី​ឃើញ​ស្ទីល, ពណ៌ ឬ​ធាតុផ្សំ​ផ្សេងៗ។</string>
+</resources>

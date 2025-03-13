@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">અને</string>
+    <string name="background">બૅકગ્રાઉન્ડ</string>
+    <string name="background_color">બૅકગ્રાઉન્ડનો રંગ</string>
+    <string name="button">ઓકે</string>
+    <string name="character">પાત્ર</string>
+    <string name="clock_type">ઘડિયાળનો પ્રકાર</string>
+    <string name="color">રંગ</string>
+    <string name="complication">જટિલતા</string>
+    <string name="complication_color">જટિલતાનો રંગ</string>
+    <string name="dial">ડાયલ કરો</string>
+    <string name="duo_color">વર્તુળના રંગ</string>
+    <string name="font_color">ફૉન્ટનો રંગ</string>
+    <string name="hands">હાથ</string>
+    <string name="index">ઇન્ડેક્સીઝ</string>
+    <string name="second_hand_color">બીજા કાંટાનો રંગ</string>
+    <string name="tutorial_swipe_bezel_clockwise">વિવિધ શૈલીઓ, રંગો કે જટિલતાઓ જોવા માટે બેઝલને ઘડિયાળની દિશામાં સ્વાઇપ કરો.</string>
+    <string name="tutorial_swipe_right_left">શૈલી, રંગ કે જટિલતાને કસ્ટમાઇઝ કરવા માટે ડાબે કે જમણે સ્વાઇપ કરો.</string>
+    <string name="tutorial_swipe_up_down">વિવિધ શૈલીઓ, રંગો કે જટિલતાઓ જોવા માટે ઉપર અથવા નીચે સ્વાઇપ કરો.</string>
+</resources>

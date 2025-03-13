@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">အကြောင်းကြားချက်အသစ် %d ခု</item>
+        <item quantity="other">အကြောင်းကြားချက်အသစ် %d ခု</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dd</item>
+        <item quantity="other">%dd</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%dh</item>
+        <item quantity="other">%dh</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%dm</item>
+        <item quantity="other">%dm</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d ရက်</item>
+        <item quantity="other">%d ရက်</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d နာရီ</item>
+        <item quantity="other">%d နာရီ</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d မိနစ်</item>
+        <item quantity="other">%d မိနစ်</item>
+    </plurals>
+</resources>

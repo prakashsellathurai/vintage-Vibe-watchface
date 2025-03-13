@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d նոր ծանուցում</item>
+        <item quantity="other">%d նոր ծանուցում</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d օր</item>
+        <item quantity="other">%d օր</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d ժ</item>
+        <item quantity="other">%d ժ</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d ր</item>
+        <item quantity="other">%d ր</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d օր</item>
+        <item quantity="other">%d օր</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d ժամ</item>
+        <item quantity="other">%d ժամ</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d րոպե</item>
+        <item quantity="other">%d րոպե</item>
+    </plurals>
+</resources>

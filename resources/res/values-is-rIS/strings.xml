@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">og</string>
+    <string name="background">Bakgrunnur</string>
+    <string name="background_color">Bakgrunnslitur</string>
+    <string name="button">Í lagi</string>
+    <string name="character">Persóna</string>
+    <string name="clock_type">Gerð klukku</string>
+    <string name="color">Litur</string>
+    <string name="complication">Aukaverkun</string>
+    <string name="complication_color">Litur eiginleika</string>
+    <string name="dial">Skífa</string>
+    <string name="duo_color">Hringjalitir</string>
+    <string name="font_color">Leturlitur</string>
+    <string name="hands">Vísar</string>
+    <string name="index">Yfirlit</string>
+    <string name="second_hand_color">Litur sekúnduvísis</string>
+    <string name="tutorial_swipe_bezel_clockwise">Strjúktu skífunni réttsælis til að skoða mismunandi útlit, liti eða sjá eiginleika.</string>
+    <string name="tutorial_swipe_right_left">Strjúktu til vinstri eða hægri til að sérsníða stíl, lit eða eiginleika.</string>
+    <string name="tutorial_swipe_up_down">Strjúktu upp eða niður til að skoða mismunandi útlit, liti eða eiginleika.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">ja</string>
+    <string name="background">Taust</string>
+    <string name="background_color">Taustavärv</string>
+    <string name="button">OK</string>
+    <string name="character">Tegelane</string>
+    <string name="clock_type">Kellatüüp</string>
+    <string name="color">Värv</string>
+    <string name="complication">Keeruline</string>
+    <string name="complication_color">Täienduse värv</string>
+    <string name="dial">Vali</string>
+    <string name="duo_color">Ringide värvid</string>
+    <string name="font_color">Fondi värv</string>
+    <string name="hands">Käed</string>
+    <string name="index">Indeksid</string>
+    <string name="second_hand_color">Teise seieri värv</string>
+    <string name="tutorial_swipe_bezel_clockwise">Libistage rõngast päripäeva, et näha erinevaid stiile, värve ja detaile.</string>
+    <string name="tutorial_swipe_right_left">Stiili, värvi või täienduse kohandamiseks libistage vasakule või paremale.</string>
+    <string name="tutorial_swipe_up_down">Libistage üles või alla, et näha erinevaid stiile, värve või täiendusi.</string>
+</resources>

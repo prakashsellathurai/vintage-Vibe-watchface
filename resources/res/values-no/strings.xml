@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_shortcut_screen_reader_name">Appsnarvei</string>
+    <string name="change_media_screen_reader_name">Bytt medieinnhold</string>
+    <string name="color_selector_display_name">Farge</string>
+    <string name="color_selector_screen_reader_name">Fargevelger</string>
+    <string name="ith_color_option">Stilalternativ %1$s</string>
+    <string name="ith_complication_display_name">%1$s tilleggsfunk.</string>
+    <string name="ith_complication_screen_reader_name">%1$s område for tilleggsfunksjon</string>
+    <string name="ith_option_display_name">%1$s alternativ</string>
+    <string name="ith_option_screen_reader_name">%1$s listealternativ</string>
+    <string name="ith_style_display_name">%1$s innstilling</string>
+    <string name="ith_style_screen_reader_name">%1$s stilinnstilling</string>
+    <string name="ith_style_setting">Stilinnstilling %1$s</string>
+    <string name="moon_phase_evening_crescent">Månesigd, ny</string>
+    <string name="moon_phase_first_quarter">Første kvarter</string>
+    <string name="moon_phase_full_moon">Fullmåne</string>
+    <string name="moon_phase_last_quarter">Siste kvarter</string>
+    <string name="moon_phase_morning_crescent">Månesigd, ne</string>
+    <string name="moon_phase_new_moon">Nymåne</string>
+    <string name="moon_phase_waning_gibbous">Minkende halvmåne</string>
+    <string name="moon_phase_waxing_gibbous">Voksende halvmåne</string>
+    <string name="play_media_screen_reader_name">Spill av medieinnhold</string>
+    <string name="preview_long_text_app_shortcut_complication">Appsnarvei</string>
+    <string name="preview_long_text_battery_complication">Batteri: 100 %</string>
+    <string name="preview_long_text_day_of_week_complication">Lørdag</string>
+    <string name="preview_long_text_next_event_complication">11.00: kaffeprat</string>
+    <string name="preview_short_text_battery_complication">100 %</string>
+    <string name="preview_short_text_date_complication_text">feb</string>
+    <string name="preview_short_text_date_complication_title">16</string>
+    <string name="preview_short_text_day_and_date_complication_text">Lør</string>
+    <string name="preview_short_text_day_and_date_complication_title">16. feb</string>
+    <string name="preview_short_text_day_of_week_complication">Lør</string>
+    <string name="preview_short_text_next_event_complication">11.00</string>
+    <string name="preview_short_text_step_count_complication_text">Skritt</string>
+    <string name="preview_short_text_step_count_complication_title">2000</string>
+    <string name="preview_short_text_sunrise_sunset_complication">18.32</string>
+    <string name="preview_short_text_time_and_date_complication_text">16. feb</string>
+    <string name="preview_short_text_time_and_date_complication_title">10.10</string>
+    <string name="preview_short_text_unread_notifications_complication">2</string>
+    <string name="preview_short_text_world_clock_complication_text">NYC</string>
+    <string name="preview_short_text_world_clock_complication_title">10.10</string>
+    <string name="progress_bar_screen_reader_name">Verdi for fremdriftslinjen: %1$s</string>
+</resources>

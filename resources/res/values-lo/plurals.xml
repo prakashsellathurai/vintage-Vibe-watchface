@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d ການແຈ້ງເຕືອນໃໝ່</item>
+        <item quantity="other">%d ການແຈ້ງເຕືອນໃໝ່</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dມ</item>
+        <item quantity="other">%dມ</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%dຊມ</item>
+        <item quantity="other">%dຊມ</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%dນທ</item>
+        <item quantity="other">%dນທ</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d ມື້</item>
+        <item quantity="other">%d ມື້</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d ຊົ່ວໂມງ</item>
+        <item quantity="other">%d ຊົ່ວໂມງ</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d ນທ</item>
+        <item quantity="other">%d ນທ</item>
+    </plurals>
+</resources>

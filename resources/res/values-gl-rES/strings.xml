@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">e</string>
+    <string name="background">Fondo</string>
+    <string name="background_color">Cor de fondo</string>
+    <string name="button">Aceptar</string>
+    <string name="character">Personaxe</string>
+    <string name="clock_type">Tipo de reloxo</string>
+    <string name="color">Cor</string>
+    <string name="complication">Complicación</string>
+    <string name="complication_color">Cor da complicación</string>
+    <string name="dial">Dial</string>
+    <string name="duo_color">Cores círculos</string>
+    <string name="font_color">Cor da fonte</string>
+    <string name="hands">Punteiros</string>
+    <string name="index">Índices</string>
+    <string name="second_hand_color">Cor da agulla dos segundos</string>
+    <string name="tutorial_swipe_bezel_clockwise">Move o bisel á dereita para ver estilos, cores ou complicacións diferentes.</string>
+    <string name="tutorial_swipe_right_left">Pasa o dedo cara á esquerda para personalizar o estilo, a cor ou a complicación.</string>
+    <string name="tutorial_swipe_up_down">Paso o dedo cara arriba ou cara abaixo pola pantalla para ver estilos, cores ou complicacións diferentes.</string>
+</resources>

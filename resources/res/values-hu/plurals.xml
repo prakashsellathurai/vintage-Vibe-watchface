@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d új értesítés</item>
+        <item quantity="other">%d új értesítés</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d n</item>
+        <item quantity="other">%d n</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d ó</item>
+        <item quantity="other">%d ó</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d p</item>
+        <item quantity="other">%d p</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d nap</item>
+        <item quantity="other">%d nap</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d óra</item>
+        <item quantity="other">%d óra</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d perc</item>
+        <item quantity="other">%d perc</item>
+    </plurals>
+</resources>

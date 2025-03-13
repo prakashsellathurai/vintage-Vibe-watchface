@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">va</string>
+    <string name="background">Fon</string>
+    <string name="background_color">Fon rangi</string>
+    <string name="button">OK</string>
+    <string name="character">Belgi</string>
+    <string name="clock_type">Soat turi</string>
+    <string name="color">Rang</string>
+    <string name="complication">Murakkablik</string>
+    <string name="complication_color">Murakkablik rangi</string>
+    <string name="dial">Terish</string>
+    <string name="duo_color">Aylana ranglari</string>
+    <string name="font_color">Shrift rangi</string>
+    <string name="hands">Qo‘llar</string>
+    <string name="index">Indekslar</string>
+    <string name="second_hand_color">Ikkinchi qoʻl rangi</string>
+    <string name="tutorial_swipe_bezel_clockwise">Har uslub, rang yoki murakkabliklarni ko‘rish uchun tig‘ni soat mili yo‘nalishida suring.</string>
+    <string name="tutorial_swipe_right_left">Uslub, rang yoki murakkablikni sozlash uchun chap yoki oʻngga suring.</string>
+    <string name="tutorial_swipe_up_down">Har xil uslub, rang yoki murakkabliklarni koʻrish uchun yuqoriga yoki pastga suring.</string>
+</resources>

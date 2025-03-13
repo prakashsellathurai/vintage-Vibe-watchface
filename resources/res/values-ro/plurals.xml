@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+        <item quantity="other">%d de notificări noi</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d z</item>
+        <item quantity="few">%d z</item>
+        <item quantity="other">%d z</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d m</item>
+        <item quantity="few">%d m</item>
+        <item quantity="other">%d m</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d zi</item>
+        <item quantity="few">%d zile</item>
+        <item quantity="other">%d de zile</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d oră</item>
+        <item quantity="few">%d ore</item>
+        <item quantity="other">%d de ore</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+</resources>

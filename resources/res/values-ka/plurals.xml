@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d ახალი შეტყობინება</item>
+        <item quantity="other">%d ახალი შეტყობინება</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dდღ</item>
+        <item quantity="other">%dდღ</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%dსთ</item>
+        <item quantity="other">%dსთ</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%dწთ</item>
+        <item quantity="other">%dწთ</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d დღე</item>
+        <item quantity="other">%d დღე</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d საათი</item>
+        <item quantity="other">%d საათი</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d წთ</item>
+        <item quantity="other">%d წთ</item>
+    </plurals>
+</resources>

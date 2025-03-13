@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d ቀ</item>
+        <item quantity="other">%d ቀ</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d ሰ</item>
+        <item quantity="other">%d ሰ</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d ደ</item>
+        <item quantity="other">%d ደ</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d ቀን</item>
+        <item quantity="other">%d ቀኖች</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d ሰዓት</item>
+        <item quantity="other">%d ሰዓቶች</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d ደቂቃ</item>
+        <item quantity="other">%d ደቂቃዎች</item>
+    </plurals>
+</resources>

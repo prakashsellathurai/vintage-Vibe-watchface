@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d नवीन सूचना</item>
+        <item quantity="other">%d नवीन सूचना</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%dदि</item>
+        <item quantity="other">%dदि</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%dता</item>
+        <item quantity="other">%dता</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%dमि</item>
+        <item quantity="other">%dमि</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d दि</item>
+        <item quantity="other">%d दि</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d ता</item>
+        <item quantity="other">%d ता</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d मि</item>
+        <item quantity="other">%d मि</item>
+    </plurals>
+</resources>

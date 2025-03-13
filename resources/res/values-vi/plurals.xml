@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d thông báo mới</item>
+        <item quantity="other">%d thông báo mới</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d ngày</item>
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d giờ</item>
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d phút</item>
+        <item quantity="other">%d phút</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d ngày</item>
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d giờ</item>
+        <item quantity="other">%d giờ</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d phút</item>
+        <item quantity="other">%d phút</item>
+    </plurals>
+</resources>

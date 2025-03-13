@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">र</string>
+    <string name="background">पृष्ठभूमि</string>
+    <string name="background_color">पृष्ठभूमिको रंग</string>
+    <string name="button">ठीक छ</string>
+    <string name="character">पात्र</string>
+    <string name="clock_type">घडीको प्रकार</string>
+    <string name="color">रंग</string>
+    <string name="complication">जटिलता</string>
+    <string name="complication_color">कम्प्लिकेशनको रंग</string>
+    <string name="dial">डायल</string>
+    <string name="duo_color">सर्कलका रङहरू</string>
+    <string name="font_color">फन्टको रंग</string>
+    <string name="hands">सुइहरू</string>
+    <string name="index">सूची</string>
+    <string name="second_hand_color">दोस्रो सुइको रंग</string>
+    <string name="tutorial_swipe_bezel_clockwise">विभिन्न किसिमका शैली, रंग र कम्प्लिकेशनहरू हेर्न बेजललाई घडीको सुइ घुम्नेभन्दा विपरीत दिशामा घुमाउनुहोस्।</string>
+    <string name="tutorial_swipe_right_left">शैली, रंग वा कम्प्लिकेशन आफूले चाहे जस्तो बनाउन बायाँ वा दायाँतिर स्वाइप गर्नुहोस्।</string>
+    <string name="tutorial_swipe_up_down">विभिन्न किसिमका शैली, रंग र कम्प्लिकेशनहरू हेर्न माथि वा तलतिर स्वाइप गर्नुहोस्।</string>
+</resources>

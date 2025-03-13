@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="and">we</string>
+    <string name="background">Arka plan</string>
+    <string name="background_color">Fon reňki</string>
+    <string name="button">OK</string>
+    <string name="character">Nyşan</string>
+    <string name="clock_type">Sagat görnüşi</string>
+    <string name="color">Reňk</string>
+    <string name="complication">Komplikasiýa</string>
+    <string name="complication_color">Çaýlym reňki</string>
+    <string name="dial">Disk</string>
+    <string name="duo_color">Halka reňkleri</string>
+    <string name="font_color">Şrift reňki</string>
+    <string name="hands">Eller</string>
+    <string name="index">Indeksler</string>
+    <string name="second_hand_color">Ikinji el reňk</string>
+    <string name="tutorial_swipe_bezel_clockwise">Dürli stilleri, reňkleri ýa-da çaýlymlary görmek üçin, çarçuwajygy sagadyň ugruna syryň.</string>
+    <string name="tutorial_swipe_right_left">Stili, reňki ýa-da çaýlymy laýyklamak üçin, çepe ýa-da saga syryň.</string>
+    <string name="tutorial_swipe_up_down">Dürli stilleri, reňkleri ýa-da goşmaça funksiýalary görmek üçin, ýokaryk ýa-da aşak syryň.</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+        <item quantity="other">%d naujų pranešimų</item>
+    </plurals>
+    <plurals name="time_difference_short_days">
+        <item quantity="one">%d d.</item>
+        <item quantity="few">%d d.</item>
+        <item quantity="many">%d d.</item>
+        <item quantity="other">%d d.</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+        <item quantity="other">%d val.</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="one">%d d.</item>
+        <item quantity="few">%d d.</item>
+        <item quantity="many">%d d.</item>
+        <item quantity="other">%d d.</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+        <item quantity="other">%d val.</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+</resources>
